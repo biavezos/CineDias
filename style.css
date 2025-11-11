@@ -1,7 +1,7 @@
 :root {
-    --cor-fundo: #0d0d0d;
-    --cor-fundo-secundario: #141414;
-    --cor-fundo-terciario: #1a1a1a;
+    --cor-fundo: rgb(54, 53, 53);
+    --cor-fundo-secundario: #2d2b2b;
+    --cor-fundo-terciario: #2a2929;
     --cor-texto: #e0e0e0;
     --cor-texto-secundario: #aaaaaa;
     --cor-destaque: #ffcc00;
@@ -46,7 +46,7 @@ header h1 {
     color: var(--cor-destaque);
     font-size: 2rem;
     letter-spacing: 1px;
-    text-shadow: 0 0 10px rgba(255, 204, 0, 0.4);
+
 }
 
 nav ul {
