@@ -78,7 +78,6 @@ nav a:hover {
     color: var(--cor-destaque);
     font-size: 1.8rem;
     margin-bottom: 25px;
-    border-left: 4px solid var(--cor-destaque);
     padding-left: 10px;
 }
 
